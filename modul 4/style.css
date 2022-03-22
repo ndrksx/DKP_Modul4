@@ -1,0 +1,21 @@
+body{
+	background: #01325d;
+	font-family: roboto;
+	text-align: center;
+	color: #fafafa;
+}
+
+.ketengah{
+	margin: 10px auto;
+	width: 1150px;
+}
+
+h2{
+	font-family: sans-serif;
+}
+p{
+	font-family: bebas;
+}
+label{
+	font-family: bebas;
+}
